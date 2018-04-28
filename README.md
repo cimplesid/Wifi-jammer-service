@@ -1,8 +1,6 @@
 # Wifi jammer service
-
-
-##MADE IN AND FOR KALI LINUX
-'''
+## MADE IN AND FOR KALI LINUX
+```
 insert wifiadapter if in Virtual machine
 clone the repo using command 'git clone https://github.com/cimplesid/Wifi-jammer-service.git
 'cd Wifi-jammer-service'
@@ -13,13 +11,13 @@ after you choose the interface and monitor mode is enabled check name of interfa
 
 'leafpad sidtubejammer.py'
 edit on line 21 wlan0 to your name and save the script and run again.
-'''
-.
-.
-.
-.
-.
-.
-.
-.
+```
+.  
+.  
+. 
+.  
+.  
+.  
+.  
+.  
 copyright@sidtube
