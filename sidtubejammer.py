@@ -3,7 +3,7 @@ import subprocess #Importing subprocess because it allows me to call certain com
 
 subprocess.call('clear', shell=True) #Clear the terminal screen
 print('.........................................')
-print('Deauther V1.0 BY SIDTUBE')
+print('Deauther/WIFI JAMMER V1.0 BY SIDTUBE')
 print('\n'*3)
 print('Now listing available network cards')
 print('\n'*3)
