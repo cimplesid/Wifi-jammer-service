@@ -1,6 +1,7 @@
 # Wifi jammer service
 ## MADE IN AND FOR KALI LINUX
-### watch tutorial on youtube https://youtu.be/0FLOylOdZQo
+### watch tutorial on youtube https://youtu.be/0FLOylOdZQo 
+### Steps to use
 * insert wifiadapter if in Virtual machine
 * clone the repo using command 'git clone https://github.com/cimplesid/Wifi-jammer-service.git'
 * cd Wifi-jammer-service
