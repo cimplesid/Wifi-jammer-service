@@ -6,7 +6,7 @@
 * cd Wifi-jammer-service
 run using admistrator privilage
 * chmod +x sidtubejammer.py
-* ./sidtubejammer.py
+* python sidtubejammer.py
 ![xxx](https://user-images.githubusercontent.com/29953052/39392114-aac91e78-4acf-11e8-9e55-c279e6d97ea0.JPG)
 
 * after you choose the interface and monitor mode is enabled check name of interface if it is wlan0 then it is ok else  
