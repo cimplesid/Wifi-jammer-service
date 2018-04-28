@@ -21,4 +21,4 @@ run using admistrator privilage
 .  
 .  
 .  
-*copyright@sidtube
+*copyright@sidtube*
